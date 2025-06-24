@@ -8,7 +8,7 @@ Welcome to my personal resume website. I created this project to present my prof
 
 You can access the live version of this website here:
 
-**[https://your-username.github.io/resume-website/](https://hniyongabo.github.io/)**  
+**[ (https://hniyongabo.github.io/)](https://hniyongabo.github.io/)**  
 
 
 ---
